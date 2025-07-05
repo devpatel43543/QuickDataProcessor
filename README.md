@@ -83,7 +83,7 @@ QuickDataProcessor (QDP) is a serverless, multi-cloud application designed to si
    npm start
    ```
 ---
-##Architecture Diagram
+## Architecture Diagram
 ![image](https://github.com/user-attachments/assets/1888a599-c55a-4c30-b530-002e1deaf636)
 
 ---
